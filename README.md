@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/wawandco/whatsgo.svg?branch=master)](https://travis-ci.org/wawandco/whatsgo)
 
 # Whatsgo
-A package that allows you send Whatsapp messages using [Whatools](wha.tools) API.
+A package that allows you send Whatsapp messages using [Whatools](http://wha.tools) API.
 
 ## Overview
-Whatsgo is a **Go** package that acts as a wrapper to communicate with [Whatools](wha.tools) API. With **Whatsgo** you can:
+Whatsgo is a **Go** package that acts as a wrapper to communicate with [Whatools](http://wha.tools) API. With **Whatsgo** you can:
 - Subscribe to your Whatools API account.
 - Send messages to another Whatsapp users.
 - Set and Get your Whatsapp nickname.
