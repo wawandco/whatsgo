@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wawandco/whatsgo.svg?branch=master)](https://travis-ci.org/wawandco/whatsgo)
+
 # Whatsgo
 A package that allows you send Whatsapp messages using [Whatools](wha.tools) API.
 
